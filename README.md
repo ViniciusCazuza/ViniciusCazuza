@@ -18,8 +18,9 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="dotnet" width="55" src="https://skillicons.dev/icons?i=dotnet" />
-  <img align="center" alt="Csharp" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="sql" width="55" src="https://cdn.icon-icons.com/icons2/9/PNG/128/sql_racer_gamedatabase_sql_1526.png">
+  <img align="center" alt="Csharp" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">    
+  <img align="center" alt="Csharp" width="50" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png">    
+  <img align="center" alt="dotnet" src="https://skillicons.dev/icons?i=mongodb,docker" />
   <img align="center" alt="Rafa-React" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" src="https://skillicons.dev/icons?i=js,ts" />
   <img align="center" alt="Rafa-HTML" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -43,21 +44,6 @@
 
 ##
 
-### Studying in this moment:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="dotnet" width="40" src="https://skillicons.dev/icons?i=dotnet">
- <img align="center" alt="Csharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="xamarin" width="42" src="https://img.icons8.com/color/344/xamarin.png">
-  <img align="center" alt="sql" width="42" src="https://cdn.icon-icons.com/icons2/9/PNG/128/sql_racer_gamedatabase_sql_1526.png">
-  <img align="center" alt="Rafa-React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" width="80" src="https://skillicons.dev/icons?i=js,ts" />
-  <img align="center" alt="Rafa-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-
-##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusCazuza&bg_color=000000&color=bd93f9&line=7b4ec6&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)&nbsp;
 
