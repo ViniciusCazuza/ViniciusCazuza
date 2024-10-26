@@ -57,6 +57,8 @@
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
+ <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ViniciusCazuza/ViniciusCazuza/output-3d-contrib/night.svg" />
+
 ##
 
 ### Connect with me:
