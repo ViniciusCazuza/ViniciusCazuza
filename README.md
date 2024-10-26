@@ -55,7 +55,7 @@
 
 ##
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](.ViniciusCazuza/ViniciusCazuza/profile-3d-contrib/profile-night-rainbow.svg)
 
  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ViniciusCazuza/ViniciusCazuza/profile-3d-contrib/profile-night-rainbow.svg" />
 
