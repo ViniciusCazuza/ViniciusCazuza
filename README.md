@@ -2,8 +2,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Cazuza+Santos;I'm+27+years+old;I+am+from+São+Paulo,+Brasil;I+study+Back-And+and+.NET+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-#### Olá, seja bem-vindo me chamo Vinicius, tenho 27 anos, Cristão, Casado, tenho uma Princesinha como Herdeira, Sempre buscando evoluir cada dia mais dentro da área profissional do Desenvolvimento de Software, assim como em todas as áreas da minha vida. Mantendo o foco em aprender novas tecnologias e no desenvolvimento Back-And.
-#### Hello, welcome! My name is Vinicius, I’m 27 years old, Christian, married, and I have a little princess as my heir. I'm constantly seeking to grow in my professional career in Software Development, as well as in all areas of my life. I stay focused on learning new technologies and on Back-End development.
+#### Olá, seja bem-vindo me chamo Vinicius, tenho 29 anos, tenho uma Princesinha como Herdeira, Sempre buscando evoluir cada dia mais dentro da área profissional do Desenvolvimento de Software, assim como em todas as áreas da minha vida. Mantendo o foco em aprender novas tecnologias e no desenvolvimento Back-And.
+#### Hello, welcome! My name is Vinicius, I’m 29 years old, and I have a little princess as my heir. I'm constantly seeking to grow in my professional career in Software Development, as well as in all areas of my life. I stay focused on learning new technologies and on Back-End development.
 
 
 #### Atualmente estou estudando e me especializando em C# e todo o ecossistema .Net, porém vou estudar e buscar mais conhecimentos de Front-And, buscando sempre ser um Profissional Completo.
