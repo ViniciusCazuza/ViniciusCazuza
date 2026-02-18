@@ -39,14 +39,6 @@
 
 ##
 
- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusCazuza&show_icons=true&count_private=true&hide_border=true&title_color=bd93f9&icon_color=bd93f9&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCazuza&layout=compact&hide_border=true&title_color=bd93f9&text_color=bd93f9&bg_color=0d1117" />
-</div>
-
-##
-
-
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViniciusCazuza&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusCazuza&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
